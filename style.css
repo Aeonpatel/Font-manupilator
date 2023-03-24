@@ -1,0 +1,18 @@
+.font_display{
+    border-bottom: 50px;
+    background-color: aquamarine;
+  border:10px solid red;
+    height: 400px;
+    width: 400px;
+    font-size: 50px;
+}
+
+.header{
+  font-size: 17px;
+}
+
+canvas{
+  border-radius: 20px;
+  border:5px solid orange;
+  background-color: aliceblue;
+}
